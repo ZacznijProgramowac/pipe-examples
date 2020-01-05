@@ -1,4 +1,9 @@
-# Blueprint dla aplikacji Angular na potrzeby edukacyjne
+# Dodatkowe przykłady na potrzeby kursu Angulara
+## Więcej informacji:
+- kurs udemy [https://www.udemy.com/course/angular-kompletny-kurs-od-podstaw/](https://www.udemy.com/course/angular-kompletny-kurs-od-podstaw/)
+- blog [https://zacznijprogramowac.net/](https://zacznijprogramowac.net/)
+# Otwórz przez StackBlitz:
+[https://stackblitz.com/github/ZacznijProgramowac/pipe-examples](https://stackblitz.com/github/ZacznijProgramowac/pipe-examples)
 
 ## Wymagania projektu
 - Angular CLI: 9.0.0-rc.7
