@@ -2,12 +2,12 @@
   <h1>{{ title | titlecase }}</h1>
 
   <h3>Lokalizacja</h3>
-  <p>{{ '07-15-1410' | date: 'fullDate' }}</p>
-  <p>{{ '07-15-1410' | date: 'fullDate':'':'pl' }}</p>
-  <p>{{ '07-15-1410' | date: 'fullDate':'':'bn' }}</p>
+  <p>{{ 'Sun Jul 15 1410 00:00:00' | date: 'fullDate' }}</p>
+  <p>{{ 'Sun Jul 15 1410 00:00:00' | date: 'fullDate':'':'pl' }}</p>
+  <p>{{ 'Sun Jul 15 1410 00:00:00' | date: 'fullDate':'':'bn' }}</p>
 
   <h3>Łączenie pipe</h3>
-  <p>{{ '07-15-1410' | date: 'fullDate' | uppercase }}</p>
+  <p>{{ 'Sun Jul 15 1410 00:00:00' | date: 'fullDate' | uppercase }}</p>
 
   <!--  https://angular.io/api/common/DecimalPipe -->
   <h3>DecimalPipe - formatowanie liczb</h3>
